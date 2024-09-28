@@ -1,0 +1,14 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÝ—äþÿÿÿÿ8™‚õ¶£2J$3f4c861b-92cb-4562-a0d0-c40b0e952d9c
+œ
+java:S1192"TDefine a constant instead of duplicating this literal "Sales And Marketing" 3 times.(„ÅšÛøÿÿÿÿ8š‚õ¶£2J$6e0d4801-4129-4645-9a52-b9db561de63b
+œ
+java:S1192"TDefine a constant instead of duplicating this literal "Product Development" 5 times.(åÖßÃýÿÿÿÿ8š‚õ¶£2J$21791677-20e0-440e-971f-84a8461da9cc
+‘
+java:S1192"ODefine a constant instead of duplicating this literal "Infrastructure" 3 times.(¤àí8š‚õ¶£2J$441b480e-64da-46b6-8186-7a0646c70bd6
+Š
+java:S1192
+"GDefine a constant instead of duplicating this literal "Female" 6 times.(ýƒŒÛ8š‚õ¶£2J$d0ef9956-ebd7-40fa-8fe4-25d2f4bc1928
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æí›Øýÿÿÿÿ8¡‚õ¶£2J$d6843790-93fb-4fcb-a8e2-b592fd08c00d
+r	java:S106 "+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8 Þõ¶£2J$c4eb306e-7eb8-4344-9e98-46ba02e77653

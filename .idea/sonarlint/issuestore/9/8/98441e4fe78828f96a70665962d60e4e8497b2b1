@@ -1,0 +1,25 @@
+
+‰
+java:S1192	"FDefine a constant instead of duplicating this literal "Sales" 3 times.(·Ğ8ÆûÜµ£2J$f3087038-5a73-4a2c-a588-ab940874d78e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÎùé8ÈûÜµ£2J$0ff160f7-4d9e-48cd-9f7f-2852119f503e
+z
+java:S3655U"7Call "Optional#isPresent()" before accessing the value.(ò˜¨8ÍûÜµ£2J$03bc0eac-d7e8-460c-8094-6267934015bd
+
+java:S1854U"<Remove this useless assignment to local variable "employee".(ò˜¨8ÑûÜµ£2J$0dfe7d6a-5adf-44c2-a3a3-01358cb49d44
+n
+java:S2201Q"+The return value of "collect" must be used.(”´Û8ÑûÜµ£2J$ef21ead3-5e8e-4815-9937-fb813315705b
+}	java:S125"<This block of commented-out lines of code should be removed.(„æùY8ÒûÜµ£2J$9d750fee-1b8b-49d4-8307-65bd2d9160ca
+}	java:S125"<This block of commented-out lines of code should be removed.(Æğ”8ÒûÜµ£2J$10511fa1-2e6b-493f-82cb-957ed167bc62
+~	java:S125"<This block of commented-out lines of code should be removed.(Ã­—Õ8ÒûÜµ£2J$71d9eccb-0841-4a47-9468-5028b31e5901
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(êÕËÿÿÿÿÿ8ÒûÜµ£2J$6bac766f-7136-46af-9cea-ef11457253b6
+~	java:S125'"<This block of commented-out lines of code should be removed.(†ÅØ8ÒûÜµ£2J$06319537-be5d-4945-b1f3-91a28bdf8d49
+~	java:S125+"<This block of commented-out lines of code should be removed.(™ÎÍ8ÒûÜµ£2J$06e221b3-0c9e-4bab-a56a-b6e352dc6582
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(òøçøÿÿÿÿ8ÒûÜµ£2J$0416f586-33ba-42f2-a1db-052b79b2bfc4
+}	java:S1254"<This block of commented-out lines of code should be removed.(Œœù	8ÒûÜµ£2J$29ba84f2-fe7c-440d-8b0a-2d1457af40d0
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(ÿ†õ‹ùÿÿÿÿ8ÒûÜµ£2J$8b2f596c-256c-4713-9c2d-0d78d2fc1c31
+~	java:S125="<This block of commented-out lines of code should be removed.(§ªÉ·8ÒûÜµ£2J$546de2ad-349b-4ca4-83fd-a9999bbfbe1e
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(òÂ¡ùÿÿÿÿ8ÒûÜµ£2J$97f6ce34-2412-44ba-9a59-600ee56a171c
+ƒ	java:S125H"<This block of commented-out lines of code should be removed.(Ñæ¥Ñÿÿÿÿÿ8ÒûÜµ£2J$fc883967-ebaf-4127-b017-a87b7cb2e36d
+~	java:S125L"<This block of commented-out lines of code should be removed.(ªÊóß8ÔûÜµ£2J$71e8fd65-48e0-4406-8d1a-7b66a2c89ecb
+p
+java:S1481U"-Remove this unused "employee" local variable.(ò˜¨8ÔûÜµ£2J$660c81a8-c65b-498d-8a89-0978edb57032
